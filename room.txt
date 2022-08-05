@@ -1,0 +1,112 @@
+entrance
+20
+BUNNY
+STEAK
+compass
+You just stumbled into a hole in the ground. When you
+shake off the dirt and leaves you realize you are in the
+entrance to a cave that looks man made. As you take a
+look around, you decide it might be fun to explore.
+#
+throne room
+50
+TROLL
+CANDY
+crown
+You have entered the throne room. In the middle
+of the room there is a giant wooden throne with
+intricate carvings. As you take a closer look at the
+carvings, you see that they show trolls chasing humans.
+Hmmm, maybe this is not a great place to stop for a rest.
+#
+abandoned pub
+30
+DWARF
+POTION
+bottle opener
+You have entered an abandoned pub. There are piles
+of dirty dishes and empty beer mugs all over the place.
+You hear someone coming and duck behind a table to hide.
+#
+storage room
+10
+TROLL
+CANDY
+flashlight
+You have entered a huge storage room filled with empty boxes.
+Looking at the side of one box, you see 'ACME troll food'.
+You better get out of here before you end up on the menu.
+#
+small room
+5
+none
+CANDY
+candy wrapper
+You are now in a very small room and you can barely stand up.
+On the floor it looks like someone has been snacking on candy
+bars.  You hear a faint scraching souund behind you.
+#
+library
+25
+none
+none
+library card
+As your eyes adjust to the darkness, you notice a large bookcase
+in the corner filled with leather bound books.  As you touch one
+it crumbles into dust.  These books have been here for a long time.
+#
+dungeon
+0
+TROLL
+none
+key
+You gasp as you enter a dungeon with heavy chains on the floor and
+gastly torture devices hanging on hooks on the wall. You hear loud
+foot steps behind you so you dodge behind an overturned desk.
+#
+bedroom
+100
+DWARF
+POTION
+none
+You have now entered a cozy little room with a small bed and chair.  
+There is a light layer of dust on everything so you know this 
+room has not been used recently.  Maybe you should take a nap.
+#
+break room
+1
+none
+CANDY
+soda
+You enter the room and start to feel drowsy.
+This journey has worn you out, maybe you should take a break?
+The free soda definetly helps with this decision.
+#
+pit
+25
+BUNNY
+none
+grappling hook
+A bunny has pushed you into the pit!
+You are hanging on the ledge trying to crawl back up.
+The grappling hook you grabbed in the room was the only way back up.
+Will you pick the right direction?
+#
+the mines
+0
+DWARF
+none
+rope
+You fall into the mines after choosing the wrong direction.
+There is a way to escape, but it is practically a maze.
+It shouldn't take much time though.
+#
+the top
+10
+TROLL
+none
+none
+You have reached the top!
+However, the door to escape is locked from the outside.
+It looks like you will be here a little longer.
+#
